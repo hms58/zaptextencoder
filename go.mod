@@ -1,4 +1,4 @@
-module zaptextencoder
+module github.com/hms58/zaptextencoder
 
 go 1.16
 
